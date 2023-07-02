@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721456937388",
+    "project_id": "parashu-8a2f2",
+    "storage_bucket": "parashu-8a2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721456937388:android:4028d61d753ef36d0da209",
+        "android_client_info": {
+          "package_name": "com.awesome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721456937388-stulddmpdhhhksveq2pbhtu8l95rj4tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVs9rv_aXN2_RBhfn_DXKm8EXRwANngs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721456937388-stulddmpdhhhksveq2pbhtu8l95rj4tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
